@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Nevar Studio</title>
-    <link>https://nevarstudio.github.io/</link>
+    <link>https://joelhgil.github.io/</link>
     <description>Recent content on Nevar Studio</description>
     <generator>Hugo -- 0.152.1</generator>
     <language>es-ar</language>
     <lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nevarstudio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joelhgil.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenida</title>
-      <link>https://nevarstudio.github.io/posts/bienvenida/</link>
+      <link>https://joelhgil.github.io/posts/bienvenida/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://nevarstudio.github.io/posts/bienvenida/</guid>
+      <guid>https://joelhgil.github.io/posts/bienvenida/</guid>
       <description>&lt;h1 id=&#34;nevar-studio&#34;&gt;Nevar Studio&lt;/h1&gt;
 &lt;p&gt;Bienvenido al sitio de Nevar Studio.&lt;br&gt;
 Este espacio es una síntesis entre estrategia, poesía y diseño.&lt;/p&gt;
@@ -21,7 +21,7 @@ Este espacio es una síntesis entre estrategia, poesía y diseño.&lt;/p&gt;
 &lt;li&gt;Ecosistemas abiertos&lt;/li&gt;
 &lt;li&gt;Narrativas que transforman&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://nevarstudio.github.io/page/estudio&#34;&gt;Ver más&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://joelhgil.github.io/page/estudio&#34;&gt;Ver más&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
